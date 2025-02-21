@@ -1,0 +1,17 @@
+[
+{
+	"email" : "login@gmail.com",
+	"password" : "login",
+	"product" : "IPHONE 13 PRO"
+},
+{
+	"email" : "loginrahul@gmail.com",
+	"password" : "loginrahul",
+	"product" : "ZARA COAT 3"
+},
+{
+	"email" : "maven.abc@gmail.com",
+	"password" : "maven",
+	"product" : "ADIDAS ORIGINAL"
+}
+]
