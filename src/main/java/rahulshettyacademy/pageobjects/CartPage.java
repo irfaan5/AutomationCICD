@@ -12,7 +12,7 @@ import rahulshettyacademy.AbstractComponents.AbstractComponent;
 public class CartPage extends AbstractComponent{
 	
 	WebDriver driver;
-	
+	//
 	public CartPage(WebDriver driver) {
 		super(driver);
 		this.driver=driver;
